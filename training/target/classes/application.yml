@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: training
+  data:
+    mongodb:
+        uri: mongodb://root:root@localhost:27017/training?authSource=admin&serverSelectionTimeoutMS=1000&connectTimeoutMS=1000   
+
+baseurl:
+      v1: /training/v1
+
+server:
+  port: 8000

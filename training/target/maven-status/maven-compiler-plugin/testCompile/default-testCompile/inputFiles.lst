@@ -1,0 +1,6 @@
+/home/eduardo/Área de Trabalho/training/src/test/java/br/com/mdsistemas/training/databuilders/domains/DomainsTemplateLoader.java
+/home/eduardo/Área de Trabalho/training/src/test/java/br/com/mdsistemas/training/usecases/CreateTaskUseCaseUnitTest.java
+/home/eduardo/Área de Trabalho/training/src/test/java/br/com/mdsistemas/training/gateways/http/controllers/TaskControllerUnitTest.java
+/home/eduardo/Área de Trabalho/training/src/test/java/br/com/mdsistemas/training/databuilders/domains/TaskTemplate.java
+/home/eduardo/Área de Trabalho/training/src/test/java/br/com/mdsistemas/training/TrainingApplicationTests.java
+/home/eduardo/Área de Trabalho/training/src/test/java/br/com/mdsistemas/training/gateways/database/TaskMongoDatabaseGatewayUnitTest.java

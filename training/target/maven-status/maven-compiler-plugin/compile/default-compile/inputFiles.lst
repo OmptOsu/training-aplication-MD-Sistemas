@@ -1,0 +1,10 @@
+/home/eduardo/Área de Trabalho/training/src/main/java/br/com/mdsistemas/training/gateways/http/controllers/json/TaskJsonRequest.java
+/home/eduardo/Área de Trabalho/training/src/main/java/br/com/mdsistemas/training/usecases/CreateTaskUseCase.java
+/home/eduardo/Área de Trabalho/training/src/main/java/br/com/mdsistemas/training/gateways/database/task/TaskDatabaseGateway.java
+/home/eduardo/Área de Trabalho/training/src/main/java/br/com/mdsistemas/training/gateways/database/task/mongo/TaskMongoDatabaseGateway.java
+/home/eduardo/Área de Trabalho/training/src/main/java/br/com/mdsistemas/training/gateways/database/task/mongo/repository/TaskRepository.java
+/home/eduardo/Área de Trabalho/training/src/main/java/br/com/mdsistemas/training/gateways/exceptions/ErrorToAccessDatabaseGatewayException.java
+/home/eduardo/Área de Trabalho/training/src/main/java/br/com/mdsistemas/training/domains/Task.java
+/home/eduardo/Área de Trabalho/training/src/main/java/br/com/mdsistemas/training/TrainingApplication.java
+/home/eduardo/Área de Trabalho/training/src/main/java/br/com/mdsistemas/training/gateways/http/controllers/json/TaskJsonResponse.java
+/home/eduardo/Área de Trabalho/training/src/main/java/br/com/mdsistemas/training/gateways/http/controllers/TaskController.java

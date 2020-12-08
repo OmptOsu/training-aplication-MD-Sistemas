@@ -1,0 +1,8 @@
+br/com/mdsistemas/training/gateways/http/controllers/TaskControllerUnitTest.class
+br/com/mdsistemas/training/TrainingApplicationTests.class
+br/com/mdsistemas/training/databuilders/domains/TaskTemplate$1.class
+br/com/mdsistemas/training/usecases/CreateTaskUseCaseUnitTest.class
+br/com/mdsistemas/training/gateways/database/TaskMongoDatabaseGatewayUnitTest.class
+br/com/mdsistemas/training/databuilders/domains/DomainsTemplateLoader.class
+br/com/mdsistemas/training/databuilders/domains/TaskTemplate$2.class
+br/com/mdsistemas/training/databuilders/domains/TaskTemplate.class

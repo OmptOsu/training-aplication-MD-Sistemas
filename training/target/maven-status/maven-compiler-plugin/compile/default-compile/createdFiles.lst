@@ -1,0 +1,10 @@
+br/com/mdsistemas/training/gateways/database/task/mongo/TaskMongoDatabaseGateway.class
+br/com/mdsistemas/training/gateways/http/controllers/TaskController.class
+br/com/mdsistemas/training/gateways/exceptions/ErrorToAccessDatabaseGatewayException.class
+br/com/mdsistemas/training/gateways/http/controllers/json/TaskJsonRequest.class
+br/com/mdsistemas/training/usecases/CreateTaskUseCase.class
+br/com/mdsistemas/training/gateways/database/task/TaskDatabaseGateway.class
+br/com/mdsistemas/training/gateways/http/controllers/json/TaskJsonResponse.class
+br/com/mdsistemas/training/gateways/database/task/mongo/repository/TaskRepository.class
+br/com/mdsistemas/training/domains/Task.class
+br/com/mdsistemas/training/TrainingApplication.class
